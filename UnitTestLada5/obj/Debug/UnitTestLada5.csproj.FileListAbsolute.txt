@@ -1,0 +1,7 @@
+C:\Users\katya\source\repos\UnitTestLada5\bin\Debug\UnitTestLada5.exe.config
+C:\Users\katya\source\repos\UnitTestLada5\bin\Debug\UnitTestLada5.exe
+C:\Users\katya\source\repos\UnitTestLada5\bin\Debug\UnitTestLada5.pdb
+C:\Users\katya\source\repos\UnitTestLada5\obj\Debug\UnitTestLada5.csproj.AssemblyReference.cache
+C:\Users\katya\source\repos\UnitTestLada5\obj\Debug\UnitTestLada5.csproj.CoreCompileInputs.cache
+C:\Users\katya\source\repos\UnitTestLada5\obj\Debug\UnitTestLada5.exe
+C:\Users\katya\source\repos\UnitTestLada5\obj\Debug\UnitTestLada5.pdb
